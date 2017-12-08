@@ -7,7 +7,7 @@ Significant Libraries used to implement:
 
 ---
 
-##Usage
+**Usage**
 
 The code is written according to the article "https://www.washingtonpost.com/news/the-switch/wp/2015/08/06/why-kids-are-meeting-more-strangers-online-than-ever-before/"
 To use it for a different article have a look on it's page source and locate the actual token where the meningful text is present and replace the 'article' word in the
